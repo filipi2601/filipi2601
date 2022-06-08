@@ -1,6 +1,6 @@
 ## Olá 👋, Eu sou Felipe Amorim!
 
-<a href="https://stackoverflow.com/users/11671804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11671804" height="18" width="18" /></a>
+<a href="https://stackoverflow.com/users/11671804" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" height="18" width="18" /></a>
 <a href="https://instagram.com/amoorim.felipe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amoorim.felipe" height="18" width="18" /></a>
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
