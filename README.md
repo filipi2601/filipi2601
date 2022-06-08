@@ -3,23 +3,17 @@
 <a href="https://stackoverflow.com/users/11671804" target="blank"><img align="center" src="assets/stackoverflow.svg" width="48" /></a>
 <a href="https://instagram.com/amoorim.felipe" target="blank"><img align="center" src="assets/instagram.svg" alt="amoorim.felipe" width="48" /></a>
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+Eu sou um programador fullstack 🌐 na cidade de Bauru, São Paulo. Gosto de explorar novas tecnologias 💻 e evoluir para criar novas coisas 🛠️.
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-### 🧐 More About Me:
+### 🧐 Mais sobre mim:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+- 🌱 &nbsp; Atualmente estou me aprofundando em Laravel
+- 👨🏻‍💻 &nbsp; Tenho interesse em aprender React.js e Node.js
+- 📚 &nbsp; Nas horas vagas, gosto de ler literatura e filosofia.
 
 <br>
 
