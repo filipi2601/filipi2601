@@ -25,7 +25,7 @@ Eu sou um programador fullstack 🌐 na cidade de Bauru, São Paulo. Gosto de ex
 <a href="https://laravel.com/" target="_blank"> <img align="left" alt="Laravel" height="48px" src="assets/laravel.svg"> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" height="48px" src="assets/mysql.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="48px" src="assets/git.svg"> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" height="48px" src="assets/vscode.svg"> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" height="48px" src="assets/vscode.svg"></a>
 
 <br>
 <br>
