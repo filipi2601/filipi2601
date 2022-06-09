@@ -20,8 +20,12 @@ Eu sou um programador fullstack 🌐 na cidade de Bauru, São Paulo. Gosto de ex
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML 5" height="48px" src="assets/html5.svg"> </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img align="left" alt="CSS 3" height="48px" src="assets/css3.svg"> </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/Javascript" target="_blank"> <img align="left" alt="Javascript" height="48px" src="assets/javascript.svg"> </a>
+<a href="https://jquery.com/" target="_blank"> <img align="left" alt="jQuery" height="48px" src="assets/jquery.svg"> </a>
+<a href="https://php.net/" target="_blank"> <img align="left" alt="PHP" height="48px" src="assets/php.svg"> </a>
 <a href="https://laravel.com/" target="_blank"> <img align="left" alt="Laravel" height="48px" src="assets/laravel.svg"> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" height="48px" src="assets/mysql.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="48px" src="assets/git.svg"> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" height="48px" src="assets/vscode.svg"> </a>
 
 <br>
 <br>
