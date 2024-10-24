@@ -1,4 +1,4 @@
-## Olá 👋, Eu sou Felipe Amorim!
+<!-- ## Olá 👋, Eu sou Felipe Amorim!
 
 <a href="https://stackoverflow.com/users/11671804" target="blank"><img align="center" src="assets/stackoverflow.svg" width="48" /></a>
 <a href="https://instagram.com/amoorim.felipe" target="blank"><img align="center" src="assets/instagram.svg" alt="amoorim.felipe" width="48" /></a>
@@ -38,4 +38,4 @@ Eu sou um programador fullstack 🌐 na cidade de Bauru, São Paulo. Gosto de ex
 
 </a>
 
-<br>
+<br> -->
